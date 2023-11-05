@@ -106,5 +106,3 @@ jobs:
           --s3-bucket my-bucket-slkfdjsl384fjs98343nafe \
           --s3-key ${{ github.sha }}.zip \
           --publish
-      
-      
